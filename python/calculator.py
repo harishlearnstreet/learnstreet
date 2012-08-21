@@ -19,7 +19,7 @@ def negate(n):
     """ Return negative n
     """
     "REPLACE THIS CODE WITH YOUR NEGATE METHOD"
-    return -n
+    return (-n)
 
 def factorial(n):
     """Return n factorial
@@ -29,3 +29,5 @@ def factorial(n):
     """
     "REPLACE THIS CODE WITH YOUR FACTORIAL METHOD"
     return math.factorial(n)
+    
+
