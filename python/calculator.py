@@ -29,3 +29,4 @@ def factorial(n):
     """
     "REPLACE THIS CODE WITH YOUR FACTORIAL METHOD"
     return math.factorial(n)
+
